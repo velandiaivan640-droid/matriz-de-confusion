@@ -1,0 +1,6 @@
+{
+  "name": "ConfusioLab Analytics",
+  "description": "Plataforma educativa interactiva de Matriz de Confusión y evaluación de modelos de clasificación para maestría en analítica de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
